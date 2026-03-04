@@ -8,7 +8,7 @@
 
 # 🚀 Learning Journey 🚀
 
-📚 Repository created to organize all the courses I’ve completed in my journey as a future **Software Engineer**.  
+📚 Repository created to organize all the courses I have completed throughout my journey as an aspiring Computer Science professional.  
 Here you will find **summaries, notes, and projects** for each course I finish.
 
 ---
