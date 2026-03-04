@@ -8,7 +8,7 @@
 
 # ✨ Learning Journey 🚀
 
-📚 Repositório criado para organizar todos os cursos que concluí na minha jornada como futura *Engenheira de Software*.  
+📚 Repositório criado para organizar todos os cursos que concluí durante minha jornada como futura profissional de Ciência da Computação.  
 Aqui você encontra *resumos, anotações e projetos* de cada curso que finalizei.  
 
 ---
