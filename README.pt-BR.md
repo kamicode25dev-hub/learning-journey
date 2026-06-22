@@ -8,7 +8,7 @@
 
 # ✨ Learning Journey 🚀
 
-### 📚 Este repositório reúne todos os cursos que concluí durante minha jornada rumo à carreira em Ciência da Computação. Mais do que certificados, cada pasta representa conhecimento aplicado, desafios superados e habilidades desenvolvidas por meio de resumos, anotações e projetos práticos. Um registro da minha evolução contínua como desenvolvedora Back-end e futura engenheira de software.  
+### 📚 Este repositório reúne minha trajetória de aprendizado e evolução na área de tecnologia. Cada curso concluído, resumo elaborado, anotação registrada e projeto desenvolvido representa conhecimento aplicado, desafios superados e competências adquiridas ao longo da minha formação. Mais do que uma coleção de certificados, este espaço demonstra meu comprometimento com a excelência técnica e meu objetivo de construir uma carreira sólida como desenvolvedora Back-end e futura engenheira de software.  
 
 ---
 
