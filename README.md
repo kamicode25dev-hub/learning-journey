@@ -8,7 +8,7 @@
 
 # 🚀 Learning Journey 🚀
 
-# 📚 This repository brings together my learning journey and continuous growth in the field of technology. Each completed course, written summary, documented note, and developed project represents applied knowledge, challenges overcome, and skills acquired throughout my education. More than a collection of certificates, this space demonstrates my commitment to technical excellence and my goal of building a solid career as a Back-end Developer and future Software Engineer.
+### 📚 This repository brings together my learning journey and continuous growth in the field of technology. Each completed course, written summary, documented note, and developed project represents applied knowledge, challenges overcome, and skills acquired throughout my education. More than a collection of certificates, this space demonstrates my commitment to technical excellence and my goal of building a solid career as a Back-end Developer and future Software Engineer.
 
 ---
 
