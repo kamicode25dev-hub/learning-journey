@@ -1,0 +1,167 @@
+<svg width="1600" height="450" viewBox="0 0 1600 450" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#021B79"/>
+      <stop offset="50%" stop-color="#0575E6"/>
+      <stop offset="100%" stop-color="#003B8E"/>
+    </linearGradient>
+
+    <!-- Moon Glow -->
+    <radialGradient id="moonGlow">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Text Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="450" fill="url(#bg)"/>
+
+  <!-- Stars -->
+  <g fill="white">
+
+    <circle cx="120" cy="50" r="2">
+      <animate attributeName="opacity"
+               values="1;0.2;1"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="350" cy="90" r="2">
+      <animate attributeName="opacity"
+               values="1;0.3;1"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="600" cy="60" r="2"/>
+    <circle cx="820" cy="110" r="2"/>
+    <circle cx="1020" cy="70" r="2"/>
+    <circle cx="1450" cy="50" r="3"/>
+    <circle cx="1380" cy="380" r="2"/>
+    <circle cx="1150" cy="340" r="2"/>
+    <circle cx="250" cy="360" r="2"/>
+
+  </g>
+
+  <!-- Glow Behind Moon -->
+  <circle cx="1320"
+          cy="225"
+          r="120"
+          fill="url(#moonGlow)"/>
+
+  <!-- Moon -->
+  <g>
+
+    <circle cx="1320"
+            cy="225"
+            r="90"
+            fill="#F8FAFF"/>
+
+    <!-- Craters -->
+    <circle cx="1290" cy="200" r="10" fill="#D9E4FF"/>
+    <circle cx="1350" cy="240" r="12" fill="#D9E4FF"/>
+    <circle cx="1315" cy="270" r="8" fill="#D9E4FF"/>
+    <circle cx="1280" cy="250" r="6" fill="#D9E4FF"/>
+    <circle cx="1365" cy="185" r="7" fill="#D9E4FF"/>
+
+  </g>
+
+  <!-- Floating Code Icon -->
+  <g transform="translate(100,120)">
+
+    <rect width="150"
+          height="110"
+          rx="18"
+          fill="#4DA6FF"
+          opacity="0.9"/>
+
+    <rect x="15"
+          y="15"
+          width="120"
+          height="75"
+          rx="8"
+          fill="#021B79"/>
+
+    <text x="35"
+          y="63"
+          fill="#A8D8FF"
+          font-size="42"
+          font-family="Consolas"
+          font-weight="bold">
+      &lt;/&gt;
+    </text>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="100,120;100,110;100,120"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+  <!-- Main Title -->
+  <text x="320"
+        y="190"
+        font-family="Poppins, Arial"
+        font-size="82"
+        font-weight="700"
+        fill="white"
+        filter="url(#glow)">
+    Courses &amp; Projects
+  </text>
+
+  <!-- Subtitle -->
+  <text x="325"
+        y="260"
+        font-family="Inter, Arial"
+        font-size="42"
+        fill="#CFE8FF">
+    Computer Science
+  </text>
+
+  <!-- Line -->
+  <line x1="325"
+        y1="295"
+        x2="1080"
+        y2="295"
+        stroke="#8ED1FF"
+        stroke-width="3">
+
+    <animate attributeName="stroke-opacity"
+             values="0.4;1;0.4"
+             dur="3s"
+             repeatCount="indefinite"/>
+
+  </line>
+
+  <!-- Footer -->
+  <text x="210"
+        y="380"
+        fill="#CFE8FF"
+        font-size="28"
+        font-family="Consolas">
+
+    Python • Backend Development • Software Engineering • Cloud
+
+    <animate attributeName="opacity"
+             values="0.6;1;0.6"
+             dur="3s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+</svg>
