@@ -8,8 +8,7 @@
 
 # ✨ Learning Journey 🚀
 
-📚 Repositório criado para organizar todos os cursos que concluí durante minha jornada como futura profissional de Ciência da Computação.  
-Aqui você encontra *resumos, anotações e projetos* de cada curso que finalizei.  
+##📚 Este repositório reúne todos os cursos que concluí durante minha jornada rumo à carreira em Ciência da Computação. Mais do que certificados, cada pasta representa conhecimento aplicado, desafios superados e habilidades desenvolvidas por meio de resumos, anotações e projetos práticos. Um registro da minha evolução contínua como desenvolvedora Back-end e futura engenheira de software.##  
 
 ---
 
