@@ -12,15 +12,6 @@
 
 ---
 
-## 👩‍💻 Sobre Mim  
-
-🌟 **Nome:** Kami Code  
-🎯 **Foco:** Desenvolvimento Back-end Júnior & Front-end  
-📍 **Local:** Florianópolis, Santa Catarina, Brasil  
-🚀 **Objetivo:** Conseguir minha primeira vaga em tecnologia e evoluir sempre!  
-
----
-
 ## 📂 Organização do Repositório
 
 - [01 - HTML](./01-html)  
