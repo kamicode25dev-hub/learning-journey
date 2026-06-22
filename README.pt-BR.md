@@ -1,5 +1,5 @@
-[![PT-BR](https://img.shields.io/badge/🌎_Português-blue?style=for-the-badge)](README.pt-BR.md)
-[![EN](https://img.shields.io/badge/🌍_English-red?style=for-the-badge)](README.md)
+[![PT-BR](https://img.shields.io/badge/🌎_Português-darkblue?style=for-the-badge)](README.pt-BR.md)
+[![EN](https://img.shields.io/badge/🌍_English-darkblue?style=for-the-badge)](README.md)
 
 <p align="center">
   <img src="banner-en.svg" alt="Kami Code | Learning Journey — Courses, Notes and Projects" />
