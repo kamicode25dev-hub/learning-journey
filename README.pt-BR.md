@@ -6,7 +6,7 @@
 </p>
 
 
-# ✨ Learning Journey 🚀
+# 🚀 Learning Journey 🚀
 
 ### 📚 Este repositório reúne minha trajetória de aprendizado e evolução na área de tecnologia. Cada curso concluído, resumo elaborado, anotação registrada e projeto desenvolvido representa conhecimento aplicado, desafios superados e competências adquiridas ao longo da minha formação. Mais do que uma coleção de certificados, este espaço demonstra meu comprometimento com a excelência técnica e meu objetivo de construir uma carreira sólida como desenvolvedora Back-end e futura engenheira de software.  
 
