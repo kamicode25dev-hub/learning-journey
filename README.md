@@ -1,5 +1,5 @@
 [![PT-BR](https://img.shields.io/badge/🌎_Português-blue?style=for-the-badge)](README.pt-BR.md)
-[![EN](https://img.shields.io/badge/🌍_English-red?style=for-the-badge)](README.md)
+[![EN](https://img.shields.io/badge/🌍_English-darkblue?style=for-the-badge)](README.md)
 
 
 # 🚀 Learning Journey 🚀
