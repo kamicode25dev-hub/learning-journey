@@ -51,4 +51,4 @@
 
 ---
 
-### 💡 "Desenvolvendo soluções inteligentes hoje para construir a tecnologia de amanhã."
+### 💡 "Developing intelligent solutions today to shape the technology of tomorrow."
