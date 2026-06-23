@@ -13,9 +13,9 @@
 
 ---
 
-## 💻 Projetos = 🤖 KamiFlow
+## 💻 Projects = 🤖 KamiFlow
 
-#### Projeto de assistente virtual inteligente desenvolvido em Python, com foco em automação, integração de APIs e memória contextual. Criado para simular uma aplicação real, o KamiFlow demonstra conhecimentos em desenvolvimento Back-end, arquitetura de software, boas práticas de programação e construção de soluções escaláveis voltadas para produtividade e experiência do usuário. 
+#### Intelligent virtual assistant project developed in Python, focused on automation, API integration, and contextual memory. Created to simulate a real-world application, KamiFlow demonstrates skills in Back-end development, software architecture, programming best practices, and the creation of scalable solutions aimed at productivity and user experience. 
 
 
 ## 📂 Repository Organization
