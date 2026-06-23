@@ -46,3 +46,4 @@
 
 ---
 
+### 💡 "Desenvolvendo soluções inteligentes hoje para construir a tecnologia de amanhã."
