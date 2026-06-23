@@ -46,16 +46,3 @@
 
 ---
 
-## 🎯 Goals
-
-- Build practical projects for each course  
-- Publish my journey on GitHub as a portfolio  
-- Share my growth on LinkedIn  
-- Achieve my first job as a **Junior Back-end Developer**  
-
----
-
-## 🌐 Contacts
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamicode)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamicode25.dev@gmail.com)  
