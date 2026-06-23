@@ -49,15 +49,4 @@
 
 ---
 
-## 🚀 Objetivos
-- Criar projetos práticos para cada curso  
-- Publicar no GitHub como portfólio  
-- Compartilhar minha evolução no LinkedIn  
-- Alcançar minha primeira vaga como *Back-end Júnior*  
-
----
-
-## 🌐 Contatos
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamicode)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamicode25.dev@gmail.com)
-
+ # 💡 "Desenvolvendo soluções inteligentes hoje para construir a tecnologia de amanhã."
