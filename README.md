@@ -10,14 +10,6 @@
 
 ### 📚 This repository brings together my learning journey and continuous growth in the field of technology. Each completed course, written summary, documented note, and developed project represents applied knowledge, challenges overcome, and skills acquired throughout my education. More than a collection of certificates, this space demonstrates my commitment to technical excellence and my goal of building a solid career as a Back-end Developer and future Software Engineer.
 
----
-
-## 🙋 About Me
-
-- 🌟 **Name:** Kami Code  
-- 🎯 **Focus:** Junior Back-end & Front-end Development  
-- 📍 **Location:** Florianópolis, Santa Catarina, Brazil  
-- 🚀 **Goal:** Get my first tech position and keep evolving always!  
 
 ---
 
